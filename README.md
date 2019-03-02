@@ -31,7 +31,7 @@ In this tutorial, we'll add JWT authentication to protect our RESTful endpoints 
 
 > Read [Nest.js Tutorial: Build your First REST API CRUD App with TypeORM](https://www.techiediaries.com/nestjs-tutorial-rest-api-crud)
 >
-> 
+> [Nest.js Tutorial: JWT Authentication with Passport.js](https://www.techiediaries.com/nestjs-tutorial-jwt-authentication)
 
 ```bash
 $ git clone https://github.com/techiediaries/nestjs-jwt-authentication.git
