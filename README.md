@@ -26,20 +26,21 @@
 
 ## Description
 
-In this tutorial, you'll get introduced to Nest.js by building your first REST API CRUD application with this framework which is built on top of Node.js, Express.js and TypeScript and inspired by Angular.
+In this tutorial, we'll add JWT authentication to protect our RESTful endpoints from unauthorized access.
 
-We'll be using TypeORM as the ORM to abtract away the differences between the various database management system. We'll be using SQLite because it doesn't need any special installation in but you can very much use any database supported by TypeORM like MySQL or Oracle.
 
 > Read [Nest.js Tutorial: Build your First REST API CRUD App with TypeORM](https://www.techiediaries.com/nestjs-tutorial-rest-api-crud)
+>
+> 
 
 ```bash
-$ git clone https://github.com/techiediaries/nestjs-crud-rest-api.git
+$ git clone https://github.com/techiediaries/nestjs-jwt-authentication.git
 ```
 
 ## Installation
 
 ```bash
-$ cd nestjs-crud-rest-api
+$ cd nestjs-jwt-authentication
 $ npm install
 ```
 
