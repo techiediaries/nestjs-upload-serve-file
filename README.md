@@ -33,6 +33,8 @@ In this tutorial, we'll add JWT authentication to protect our RESTful endpoints 
 >
 > [Nest.js Tutorial: JWT Authentication with Passport.js](https://www.techiediaries.com/nestjs-tutorial-jwt-authentication)
 
+> [Nest.js Tutorial: File Uploading with Multer and Serving Static Files in Nest](https://www.techiediaries.com/nestjs-upload-serve-static-file)
+
 ```bash
 $ git clone https://github.com/techiediaries/nestjs-jwt-authentication.git
 ```
